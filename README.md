@@ -5,7 +5,8 @@ I'm a Computer Science student at "Alexandru Ioan Cuza" University and a Softwar
 ***
 ### 🚀 Featured Projects
 
-#### **SnapBoard** (Thesis in Progress) 
+#### **SnapBoard** (Thesis in Progress)
+**Status:** 🔒 Private Repository (Active Development)
 * **Tech:** $$C++/Qt$$, Java, Spring Boot, WebSockets 
 * A real-time collaborative whiteboard utilizing $C++/Qt$ for high-performance rendering and a Java backend for seamless synchronization
 
